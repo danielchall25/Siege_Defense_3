@@ -18,4 +18,5 @@ a:hover {
 .linkbar {
     background-color: black;
     border: 1px solid white;
+    margin-bottom: 2px;
 }
