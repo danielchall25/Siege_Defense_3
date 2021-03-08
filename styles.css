@@ -1,0 +1,12 @@
+body {
+	overflow-x: hidden;
+	font-family: sans-serif;
+	color: black;
+    background-image: url('3814272.jpg');
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+    font-size: 1rem;
+}
